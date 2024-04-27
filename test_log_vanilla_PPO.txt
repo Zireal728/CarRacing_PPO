@@ -1,0 +1,165 @@
+C:\ProgramData\Anaconda3\envs\p39pttf\python.exe D:\gym\pytorch_car_caring-master\car\validation_vanilla.py 
+Setting up a new session...
+C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\pygame\pkgdata.py:27: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  from pkg_resources import resource_stream, resource_exists
+C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\pkg_resources\__init__.py:2846: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\pkg_resources\__init__.py:2846: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\pkg_resources\__init__.py:2846: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits.basemap_data')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+done
+max t:  191
+Ep 0	Score: 630.38	
+done
+max t:  206
+Ep 1	Score: 835.10	
+done
+max t:  215
+Ep 2	Score: 807.96	
+done
+max t:  188
+Ep 3	Score: 848.80	
+done
+max t:  208
+Ep 4	Score: 822.77	
+done
+max t:  229
+Ep 5	Score: 800.63	
+done
+max t:  194
+Ep 6	Score: 829.52	
+done
+max t:  208
+Ep 7	Score: 833.50	
+done
+max t:  203
+Ep 8	Score: 830.13	
+done
+max t:  226
+Ep 9	Score: 818.60	
+done
+max t:  209
+Ep 10	Score: 832.60	
+done
+max t:  212
+Ep 11	Score: 823.44	
+done
+max t:  223
+Ep 12	Score: 795.17	
+done
+max t:  197
+Ep 13	Score: 841.70	
+done
+max t:  171
+Ep 14	Score: 610.83	
+done
+max t:  198
+Ep 15	Score: 830.47	
+done
+max t:  208
+Ep 16	Score: 832.90	
+done
+max t:  216
+Ep 17	Score: 826.40	
+done
+max t:  229
+Ep 18	Score: 810.23	
+done
+max t:  205
+Ep 19	Score: 835.40	
+done
+max t:  195
+Ep 20	Score: 843.70	
+done
+max t:  169
+Ep 21	Score: 793.96	
+done
+max t:  199
+Ep 22	Score: 832.64	
+done
+max t:  206
+Ep 23	Score: 834.50	
+done
+max t:  221
+Ep 24	Score: 815.72	
+done
+max t:  210
+Ep 25	Score: 809.38	
+done
+max t:  225
+Ep 26	Score: 803.77	
+done
+max t:  178
+Ep 27	Score: 844.76	
+done
+max t:  204
+Ep 28	Score: 836.20	
+done
+max t:  159
+Ep 29	Score: 533.84	
+done
+max t:  200
+Ep 30	Score: 824.69	
+done
+max t:  107
+Ep 31	Score: 336.46	
+done
+max t:  226
+Ep 32	Score: 818.60	
+done
+max t:  218
+Ep 33	Score: 814.86	
+done
+max t:  202
+Ep 34	Score: 809.11	
+done
+max t:  235
+Ep 35	Score: 796.88	
+done
+max t:  231
+Ep 36	Score: 814.80	
+done
+max t:  220
+Ep 37	Score: 823.20	
+done
+max t:  191
+Ep 38	Score: 846.70	
+done
+max t:  198
+Ep 39	Score: 841.20	
+done
+max t:  236
+Ep 40	Score: 807.56	
+done
+max t:  200
+Ep 41	Score: 832.46	
+done
+max t:  215
+Ep 42	Score: 814.15	
+done
+max t:  181
+Ep 43	Score: 855.00	
+done
+max t:  203
+Ep 44	Score: 837.40	
+done
+max t:  225
+Ep 45	Score: 805.51	
+done
+max t:  227
+Ep 46	Score: 789.44	
+done
+max t:  213
+Ep 47	Score: 808.97	
+done
+max t:  95
+Ep 48	Score: 287.92	
+done
+max t:  241
+Ep 49	Score: 785.46	
+
+Process finished with exit code 0
