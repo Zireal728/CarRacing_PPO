@@ -1,0 +1,1004 @@
+(p39pttf) PS D:\gym\pytorch_car_caring-master> python train.py 
+C:\ProgramData\Anaconda3\envs\p39pttf\python.exe: can't open file 'D:\gym\pytorch_car_caring-master\train.py': [Errno 2] No such file otools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+Setting up a new session...
+Ep 0    Last score: -21.48      Moving average score: -0.21
+Ep 10   Last score: -17.91      Moving average score: -2.37
+updating
+Ep 20   Last score: -18.04      Moving average score: -3.97
+updating
+Ep 30   Last score: -18.09      Moving average score: -5.13
+Ep 40   Last score: -24.46      Moving average score: -6.55
+updating
+Ep 50   Last score: -17.86      Moving average score: -7.31
+Ep 60   Last score: -17.91      Moving average score: -8.41
+updating
+Ep 70   Last score: -17.95      Moving average score: -9.44
+updating
+Ep 80   Last score: -18.00      Moving average score: -10.02
+Ep 90   Last score: -17.94      Moving average score: -10.35
+updating
+Ep 100  Last score: 12.51       Moving average score: -10.84
+updating
+Ep 110  Last score: -17.93      Moving average score: -11.44
+Ep 120  Last score: -18.05      Moving average score: -11.93
+updating
+Ep 130  Last score: -18.06      Moving average score: -12.56
+Ep 140  Last score: -20.28      Moving average score: -12.72
+updating
+Ep 150  Last score: -17.96      Moving average score: -12.87
+Ep 160  Last score: -18.06      Moving average score: -12.03
+updating
+Ep 170  Last score: -17.93      Moving average score: -11.71
+Ep 180  Last score: -17.92      Moving average score: -11.68
+updating
+Ep 190  Last score: -22.97      Moving average score: -11.74
+updating
+Ep 200  Last score: 18.86       Moving average score: -10.24
+Ep 210  Last score: -17.98      Moving average score: -10.35
+Ep 220  Last score: 28.29       Moving average score: -8.42
+updating
+Ep 230  Last score: 19.29       Moving average score: -7.33
+Ep 240  Last score: 18.06       Moving average score: -6.63
+updating
+Ep 250  Last score: 18.69       Moving average score: -5.95
+Ep 260  Last score: 13.41       Moving average score: -6.26
+updating
+Ep 270  Last score: -17.95      Moving average score: -5.68
+Ep 280  Last score: -17.96      Moving average score: -5.13
+updating
+Ep 290  Last score: 28.01       Moving average score: -3.50
+Ep 300  Last score: 37.09       Moving average score: -2.37
+Ep 310  Last score: 30.67       Moving average score: -1.01
+updating
+Ep 320  Last score: 10.38       Moving average score: -0.91
+Ep 330  Last score: -18.08      Moving average score: -0.86
+updating
+Ep 340  Last score: -18.02      Moving average score: 0.23
+Ep 350  Last score: 9.57        Moving average score: 1.59
+Ep 360  Last score: 8.48        Moving average score: 3.31
+updating
+Ep 370  Last score: 16.41       Moving average score: 5.10
+Ep 380  Last score: 21.64       Moving average score: 6.22
+Ep 390  Last score: -18.04      Moving average score: 6.83
+updating
+Ep 400  Last score: 25.59       Moving average score: 7.03
+Ep 410  Last score: 10.01       Moving average score: 8.73
+Ep 420  Last score: 27.22       Moving average score: 10.12
+updating
+Ep 430  Last score: 23.55       Moving average score: 11.12
+Ep 440  Last score: 29.54       Moving average score: 12.93
+Ep 450  Last score: 56.01       Moving average score: 13.18
+updating
+Ep 460  Last score: 32.86       Moving average score: 14.55
+Ep 470  Last score: 13.90       Moving average score: 15.18
+Ep 480  Last score: 15.06       Moving average score: 15.78
+Ep 490  Last score: 13.45       Moving average score: 17.19
+updating
+Ep 500  Last score: 26.02       Moving average score: 17.30
+Ep 510  Last score: 11.72       Moving average score: 18.12
+Ep 520  Last score: 21.20       Moving average score: 19.32
+updating
+Ep 530  Last score: 47.53       Moving average score: 20.28
+Ep 540  Last score: 32.12       Moving average score: 20.87
+Ep 550  Last score: 31.12       Moving average score: 20.59
+updating
+Ep 560  Last score: 12.99       Moving average score: 20.44
+Ep 570  Last score: 29.47       Moving average score: 22.32
+Ep 580  Last score: 45.55       Moving average score: 23.86
+updating
+Ep 590  Last score: 49.57       Moving average score: 24.79
+Ep 600  Last score: 56.01       Moving average score: 26.19
+updating
+Ep 610  Last score: 24.04       Moving average score: 29.32
+Ep 620  Last score: 35.51       Moving average score: 30.93
+updating
+Ep 630  Last score: 25.49       Moving average score: 30.92
+updating
+Ep 680  Last score: 41.14       Moving average score: 39.30
+updating
+Ep 690  Last score: 56.10       Moving average score: 42.52
+updating
+Ep 700  Last score: 56.02       Moving average score: 56.63
+updating
+Ep 710  Last score: 56.04       Moving average score: 58.85
+updating
+Ep 720  Last score: 56.08       Moving average score: 74.50
+updating
+updating
+Ep 730  Last score: 56.01       Moving average score: 85.52
+updating
+Ep 740  Last score: 56.08       Moving average score: 100.77
+updating
+Ep 750  Last score: 56.03       Moving average score: 110.94
+updating
+Ep 760  Last score: 683.16      Moving average score: 128.65
+updating
+updating
+Ep 770  Last score: 56.09       Moving average score: 150.87
+updating
+Ep 780  Last score: 56.02       Moving average score: 170.15
+updating
+updating
+Ep 790  Last score: 724.50      Moving average score: 214.99
+updating
+Ep 800  Last score: 759.40      Moving average score: 248.41
+updating
+Ep 810  Last score: 766.00      Moving average score: 287.14
+updating
+updating
+Ep 820  Last score: 760.00      Moving average score: 316.20
+updating
+Ep 880  Last score: 56.06       Moving average score: 478.07
+updating
+Ep 890  Last score: 763.83      Moving average score: 498.69
+updating
+updating
+Ep 900  Last score: 784.30      Moving average score: 521.58
+updating
+Ep 910  Last score: 56.06       Moving average score: 520.66
+updating
+Ep 920  Last score: 610.23      Moving average score: 524.20
+updating
+Ep 930  Last score: 586.04      Moving average score: 518.84
+updating
+Ep 940  Last score: 306.15      Moving average score: 527.82
+updating
+Ep 950  Last score: 301.47      Moving average score: 514.19
+Ep 960  Last score: 824.80      Moving average score: 513.53
+updating
+updating
+Ep 970  Last score: 253.37      Moving average score: 517.17
+Ep 980  Last score: 56.09       Moving average score: 490.42
+updating
+Ep 990  Last score: 813.70      Moving average score: 499.69
+updating
+Ep 1000 Last score: 56.06       Moving average score: 497.12
+updating
+Ep 1010 Last score: 801.27      Moving average score: 498.82
+updating
+Ep 1020 Last score: 56.10       Moving average score: 483.42
+Ep 1030 Last score: 832.90      Moving average score: 495.86
+updating
+Ep 1060 Last score: 790.89      Moving average score: 515.18
+updating
+Ep 1070 Last score: 811.30      Moving average score: 533.03
+updating
+updating
+Ep 1080 Last score: 813.00      Moving average score: 538.95
+updating
+Ep 1090 Last score: 823.10      Moving average score: 559.64
+updating
+Ep 1100 Last score: 794.31      Moving average score: 580.07
+updating
+Ep 1110 Last score: 834.20      Moving average score: 596.04
+updating
+Ep 1120 Last score: 756.57      Moving average score: 611.01
+Ep 1130 Last score: 664.63      Moving average score: 616.44
+updating
+Ep 1140 Last score: 650.85      Moving average score: 630.29
+updating
+Ep 1150 Last score: 792.63      Moving average score: 641.29
+updating
+Ep 1160 Last score: 820.70      Moving average score: 652.29
+updating
+Ep 1170 Last score: 789.84      Moving average score: 665.73
+updating
+Ep 1180 Last score: 841.10      Moving average score: 675.41
+updating
+updating
+Ep 1190 Last score: 819.20      Moving average score: 687.49
+updating
+Ep 1200 Last score: 842.30      Moving average score: 688.33
+updating
+Ep 1210 Last score: 463.02      Moving average score: 693.01
+updating
+Ep 1220 Last score: 832.84      Moving average score: 694.36
+updating
+Ep 1230 Last score: 830.90      Moving average score: 707.04
+updating
+Ep 1240 Last score: 831.90      Moving average score: 714.11
+updating
+Ep 1250 Last score: 838.10      Moving average score: 710.50
+updating
+Ep 1260 Last score: 840.10      Moving average score: 722.44
+updating
+Ep 1270 Last score: 808.53      Moving average score: 731.73
+updating
+Ep 1280 Last score: 555.27      Moving average score: 725.49
+updating
+Ep 1290 Last score: 476.41      Moving average score: 723.51
+updating
+Ep 1300 Last score: 812.67      Moving average score: 732.18
+updating
+Ep 1310 Last score: 837.10      Moving average score: 726.16
+updating
+Ep 1320 Last score: 813.76      Moving average score: 734.54
+updating
+Ep 1330 Last score: 825.90      Moving average score: 738.08
+updating
+Ep 1340 Last score: 834.90      Moving average score: 745.28
+updating
+Ep 1350 Last score: 664.98      Moving average score: 750.90
+updating
+Ep 1360 Last score: 248.51      Moving average score: 748.42
+updating
+Ep 1370 Last score: 821.58      Moving average score: 749.28
+updating
+Ep 1380 Last score: 374.72      Moving average score: 751.47
+updating
+Ep 1390 Last score: 828.70      Moving average score: 756.58
+updating
+Ep 1400 Last score: 548.92      Moving average score: 752.25
+updating
+Ep 1410 Last score: 786.09      Moving average score: 752.67
+updating
+Ep 1420 Last score: 777.90      Moving average score: 759.08
+updating
+Ep 1430 Last score: 827.70      Moving average score: 764.82
+updating
+Ep 1440 Last score: 842.10      Moving average score: 769.61
+updating
+updating
+Ep 1450 Last score: 827.10      Moving average score: 772.88
+updating
+Ep 1460 Last score: 840.30      Moving average score: 773.35
+updating
+Ep 1470 Last score: 769.46      Moving average score: 776.92
+updating
+Ep 1480 Last score: 602.52      Moving average score: 774.03
+updating
+Ep 1490 Last score: -17.96      Moving average score: 749.79
+Ep 1500 Last score: -17.93      Moving average score: 676.82
+updating
+Ep 1510 Last score: 31.41       Moving average score: 613.83
+Ep 1520 Last score: 35.13       Moving average score: 559.32
+updating
+Ep 1530 Last score: 56.08       Moving average score: 514.18
+updating
+Ep 1540 Last score: 493.49      Moving average score: 485.88
+updating
+Ep 1550 Last score: 629.63      Moving average score: 466.63
+updating
+updating
+Ep 1560 Last score: 678.40      Moving average score: 475.69
+updating
+Ep 1570 Last score: -18.05      Moving average score: 435.73
+Ep 1580 Last score: -18.04      Moving average score: 392.75
+Ep 1590 Last score: -17.99      Moving average score: 353.85
+Ep 1600 Last score: -17.98      Moving average score: 318.68
+Ep 1610 Last score: -17.98      Moving average score: 286.89
+updating
+Ep 1620 Last score: -18.02      Moving average score: 258.12
+Ep 1630 Last score: -18.06      Moving average score: 231.71
+Ep 1640 Last score: -18.05      Moving average score: 208.23
+Ep 1650 Last score: -17.96      Moving average score: 186.97
+updating
+Ep 1660 Last score: -18.03      Moving average score: 167.63
+Ep 1670 Last score: -18.03      Moving average score: 149.88
+Ep 1680 Last score: -18.04      Moving average score: 134.07
+Ep 1690 Last score: -18.08      Moving average score: 119.73
+updating
+Ep 1700 Last score: -17.95      Moving average score: 106.56
+Ep 1710 Last score: -17.97      Moving average score: 94.65
+Ep 1720 Last score: -17.88      Moving average score: 83.89
+updating
+Ep 1730 Last score: 8.05        Moving average score: 74.70
+Ep 1740 Last score: -18.08      Moving average score: 65.83
+updating
+Ep 1750 Last score: -18.09      Moving average score: 57.82
+Ep 1760 Last score: 12.32       Moving average score: 51.13
+updating
+Ep 1770 Last score: 9.78        Moving average score: 45.11
+Ep 1780 Last score: -18.04      Moving average score: 39.33
+Ep 1790 Last score: -19.09      Moving average score: 34.04
+updating
+Ep 1800 Last score: -17.95      Moving average score: 29.46
+Ep 1810 Last score: 25.72       Moving average score: 25.64
+updating
+Ep 1820 Last score: -18.06      Moving average score: 21.47
+Ep 1830 Last score: -17.94      Moving average score: 17.85
+Ep 1840 Last score: 18.56       Moving average score: 14.75
+updating
+Ep 1850 Last score: 9.70        Moving average score: 11.84
+Ep 1860 Last score: -18.06      Moving average score: 9.40
+updating
+Ep 1870 Last score: -18.02      Moving average score: 7.10
+Ep 1880 Last score: 20.83       Moving average score: 5.09
+Ep 1890 Last score: -17.96      Moving average score: 3.77
+updating
+Ep 1900 Last score: -17.92      Moving average score: 1.63
+Ep 1910 Last score: -18.26      Moving average score: 0.55
+updating
+Ep 1920 Last score: -17.88      Moving average score: -0.69
+Ep 1930 Last score: -17.86      Moving average score: -1.83
+updating
+Ep 1940 Last score: 11.28       Moving average score: -2.22
+Ep 1950 Last score: 9.13        Moving average score: -2.04
+updating
+Ep 1960 Last score: -18.06      Moving average score: -2.80
+Ep 1970 Last score: -18.10      Moving average score: -3.06
+updating
+Ep 1980 Last score: 14.08       Moving average score: -3.48
+Ep 1990 Last score: -17.95      Moving average score: -3.37
+Ep 2000 Last score: -17.89      Moving average score: -3.33
+updating
+Ep 2010 Last score: -23.62      Moving average score: -3.88
+Ep 2020 Last score: 11.21       Moving average score: -4.34
+updating
+Ep 2030 Last score: 8.28        Moving average score: -4.13
+Ep 2040 Last score: -18.06      Moving average score: -4.63
+updating
+Ep 2050 Last score: -18.07      Moving average score: -5.61
+Ep 2060 Last score: -18.10      Moving average score: -6.15
+updating
+Ep 2070 Last score: -17.98      Moving average score: -6.97
+Ep 2080 Last score: -17.82      Moving average score: -7.43
+updating
+Ep 2090 Last score: -18.03      Moving average score: -7.72
+Ep 2100 Last score: 14.24       Moving average score: -7.44
+updating
+Ep 2110 Last score: -26.50      Moving average score: -7.90
+Ep 2120 Last score: 15.40       Moving average score: -6.84
+updating
+Ep 2130 Last score: 24.79       Moving average score: -6.77
+Ep 2140 Last score: -12.34      Moving average score: -6.60
+updating
+Ep 2150 Last score: -17.99      Moving average score: -6.65
+Ep 2160 Last score: -17.80      Moving average score: -7.02
+updating
+Ep 2170 Last score: -22.18      Moving average score: -7.91
+Ep 2180 Last score: 11.91       Moving average score: -7.36
+updating
+Ep 2190 Last score: -18.04      Moving average score: -7.79
+Ep 2200 Last score: 27.73       Moving average score: -6.92
+updating
+Ep 2210 Last score: -17.92      Moving average score: -6.65
+Ep 2220 Last score: -17.98      Moving average score: -7.05
+updating
+Ep 2230 Last score: 15.23       Moving average score: -6.85
+Ep 2240 Last score: -18.05      Moving average score: -6.67
+updating
+Ep 2250 Last score: 13.45       Moving average score: -6.42
+Ep 2260 Last score: -17.97      Moving average score: -6.60
+updating
+Ep 2270 Last score: 9.15        Moving average score: -6.62
+updating
+Ep 2280 Last score: -18.07      Moving average score: -6.59
+Ep 2290 Last score: 8.43        Moving average score: -6.98
+updating
+Ep 2300 Last score: 8.19        Moving average score: -7.27
+Ep 2310 Last score: 16.51       Moving average score: -7.51
+updating
+Ep 2320 Last score: -17.91      Moving average score: -7.30
+Ep 2330 Last score: 30.90       Moving average score: -6.94
+updating
+Ep 2340 Last score: 35.34       Moving average score: -6.01
+Ep 2350 Last score: 25.68       Moving average score: -5.76
+updating
+Ep 2360 Last score: 20.36       Moving average score: -5.11
+Ep 2370 Last score: -18.03      Moving average score: -6.32
+updating
+Ep 2380 Last score: -18.10      Moving average score: -5.82
+Ep 2390 Last score: 28.12       Moving average score: -4.40
+updating
+Ep 2400 Last score: 51.12       Moving average score: -2.35
+Ep 2410 Last score: 32.12       Moving average score: -2.42
+updating
+Ep 2420 Last score: -18.07      Moving average score: -1.29
+Ep 2430 Last score: -18.03      Moving average score: 0.65
+updating
+Ep 2440 Last score: 21.13       Moving average score: 1.65
+Ep 2450 Last score: -26.17      Moving average score: 0.64
+updating
+Ep 2460 Last score: 56.09       Moving average score: 2.38
+Ep 2470 Last score: 8.79        Moving average score: 3.75
+updating
+Ep 2480 Last score: 31.46       Moving average score: 5.38
+updating
+Ep 2490 Last score: -18.03      Moving average score: 6.54
+Ep 2500 Last score: -18.05      Moving average score: 7.93
+updating
+Ep 2510 Last score: 34.45       Moving average score: 10.09
+Ep 2520 Last score: 9.35        Moving average score: 11.21
+updating
+Ep 2530 Last score: 14.59       Moving average score: 14.56
+Ep 2540 Last score: 25.26       Moving average score: 16.78
+updating
+Ep 2550 Last score: 32.71       Moving average score: 18.50
+Ep 2560 Last score: 54.38       Moving average score: 19.30
+updating
+Ep 2570 Last score: 56.05       Moving average score: 20.97
+Ep 2580 Last score: 28.84       Moving average score: 21.38
+updating
+Ep 2590 Last score: 56.07       Moving average score: 22.61
+updating
+Ep 2600 Last score: 12.24       Moving average score: 25.15
+Ep 2610 Last score: 56.02       Moving average score: 26.08
+updating
+Ep 2620 Last score: 12.21       Moving average score: 27.96
+Ep 2630 Last score: 48.47       Moving average score: 28.98
+updating
+Ep 2640 Last score: 56.05       Moving average score: 31.67
+Ep 2650 Last score: 38.24       Moving average score: 34.35
+updating
+Ep 2660 Last score: 56.08       Moving average score: 36.05
+updating
+Ep 2670 Last score: 56.07       Moving average score: 36.52
+Ep 2680 Last score: 56.08       Moving average score: 37.67
+updating
+Ep 2690 Last score: -17.91      Moving average score: 42.72
+updating
+Ep 2700 Last score: 56.08       Moving average score: 44.99
+updating
+Ep 2710 Last score: 264.24      Moving average score: 48.30
+updating
+Ep 2720 Last score: 254.23      Moving average score: 52.75
+updating
+updating
+Ep 2730 Last score: 56.01       Moving average score: 56.58
+updating
+Ep 2740 Last score: 249.76      Moving average score: 58.64
+updating
+Ep 2750 Last score: 43.69       Moving average score: 64.51
+updating
+Ep 2760 Last score: 52.58       Moving average score: 65.94
+updating
+updating
+Ep 2770 Last score: 279.16      Moving average score: 70.66
+updating
+Ep 2780 Last score: 9.55        Moving average score: 76.84
+updating
+Ep 2790 Last score: 38.89       Moving average score: 76.54
+updating
+Ep 2800 Last score: 26.01       Moving average score: 87.50
+updating
+Ep 2810 Last score: 56.02       Moving average score: 88.95
+updating
+Ep 2820 Last score: 21.25       Moving average score: 92.30
+updating
+updating
+Ep 2830 Last score: 351.73      Moving average score: 103.01
+updating
+Ep 2840 Last score: 56.05       Moving average score: 108.45
+updating
+updating
+Ep 2850 Last score: 326.40      Moving average score: 124.50
+updating
+Ep 2860 Last score: 254.54      Moving average score: 131.47
+updating
+Ep 2870 Last score: 56.05       Moving average score: 138.62
+updating
+updating
+Ep 2880 Last score: 54.58       Moving average score: 138.80
+updating
+updating
+Ep 2890 Last score: 436.08      Moving average score: 148.43
+updating
+Ep 2900 Last score: 429.82      Moving average score: 154.59
+updating
+Ep 2910 Last score: 56.08       Moving average score: 167.04
+updating
+updating
+Ep 2920 Last score: 318.09      Moving average score: 177.97
+updating
+Ep 2930 Last score: 56.03       Moving average score: 185.21
+updating
+updating
+Ep 2940 Last score: 328.37      Moving average score: 207.76
+updating
+Ep 2950 Last score: 436.48      Moving average score: 220.50
+updating
+Ep 2960 Last score: 56.07       Moving average score: 226.13
+updating
+Ep 2970 Last score: 735.61      Moving average score: 244.66
+updating
+updating
+Ep 2980 Last score: 536.89      Moving average score: 262.49
+updating
+Ep 2990 Last score: 288.99      Moving average score: 276.05
+updating
+Ep 3000 Last score: 608.80      Moving average score: 286.92
+updating
+Ep 3010 Last score: 315.39      Moving average score: 287.69
+updating
+Ep 3020 Last score: 56.01       Moving average score: 301.42
+updating
+Ep 3030 Last score: 314.54      Moving average score: 307.09
+updating
+Ep 3040 Last score: 714.47      Moving average score: 332.02
+updating
+updating
+Ep 3050 Last score: 604.69      Moving average score: 342.97
+updating
+Ep 3060 Last score: 408.31      Moving average score: 342.46
+updating
+Ep 3070 Last score: 345.59      Moving average score: 355.06
+updating
+Ep 3080 Last score: 766.00      Moving average score: 365.78
+updating
+Ep 3090 Last score: 471.13      Moving average score: 377.21
+updating
+updating
+Ep 3100 Last score: 682.18      Moving average score: 389.65
+updating
+Ep 3110 Last score: 388.77      Moving average score: 397.55
+updating
+Ep 3120 Last score: 333.04      Moving average score: 401.45
+updating
+Ep 3130 Last score: 321.38      Moving average score: 405.20
+updating
+Ep 3140 Last score: 701.31      Moving average score: 415.71
+updating
+Ep 3150 Last score: 678.74      Moving average score: 415.73
+updating
+updating
+Ep 3160 Last score: 794.10      Moving average score: 432.72
+updating
+Ep 3170 Last score: 382.98      Moving average score: 438.82
+updating
+Ep 3180 Last score: 661.88      Moving average score: 446.45
+updating
+Ep 3190 Last score: 300.14      Moving average score: 445.81
+updating
+Ep 3200 Last score: 270.21      Moving average score: 453.51
+updating
+updating
+Ep 3210 Last score: 753.00      Moving average score: 465.37
+updating
+Ep 3220 Last score: 603.29      Moving average score: 481.39
+updating
+Ep 3230 Last score: 435.31      Moving average score: 482.59
+updating
+Ep 3240 Last score: 680.76      Moving average score: 499.73
+updating
+updating
+Ep 3250 Last score: 569.88      Moving average score: 499.02
+updating
+Ep 3260 Last score: 524.36      Moving average score: 497.01
+Ep 3270 Last score: 346.06      Moving average score: 485.94
+updating
+updating
+Ep 3280 Last score: 727.03      Moving average score: 498.94
+updating
+Ep 3290 Last score: 771.10      Moving average score: 503.64
+updating
+Ep 3300 Last score: 590.78      Moving average score: 518.60
+updating
+Ep 3310 Last score: 785.00      Moving average score: 531.24
+updating
+Ep 3320 Last score: 713.41      Moving average score: 537.66
+updating
+Ep 3330 Last score: 571.83      Moving average score: 553.06
+updating
+Ep 3340 Last score: 596.86      Moving average score: 558.38
+updating
+Ep 3350 Last score: 481.31      Moving average score: 555.03
+updating
+updating
+Ep 3360 Last score: 804.40      Moving average score: 568.67
+updating
+Ep 3370 Last score: 820.50      Moving average score: 583.22
+updating
+Ep 3380 Last score: 747.13      Moving average score: 591.06
+updating
+Ep 3390 Last score: 798.04      Moving average score: 590.29
+updating
+Ep 3400 Last score: 760.01      Moving average score: 599.38
+updating
+Ep 3410 Last score: 771.73      Moving average score: 600.80
+updating
+Ep 3420 Last score: 333.98      Moving average score: 602.19
+updating
+Ep 3430 Last score: 282.62      Moving average score: 607.54
+updating
+updating
+Ep 3440 Last score: 757.56      Moving average score: 608.27
+updating
+Ep 3450 Last score: 432.08      Moving average score: 609.24
+updating
+Ep 3460 Last score: 668.08      Moving average score: 607.81
+updating
+Ep 3470 Last score: 767.95      Moving average score: 601.50
+updating
+Ep 3480 Last score: 764.81      Moving average score: 604.20
+updating
+Ep 3490 Last score: 807.90      Moving average score: 600.14
+updating
+Ep 3500 Last score: 742.00      Moving average score: 613.74
+updating
+Ep 3510 Last score: 608.43      Moving average score: 605.28
+updating
+Ep 3520 Last score: 353.16      Moving average score: 597.00
+updating
+Ep 3530 Last score: 357.69      Moving average score: 575.19
+updating
+Ep 3540 Last score: 779.81      Moving average score: 567.49
+updating
+Ep 3550 Last score: 433.92      Moving average score: 549.09
+updating
+Ep 3560 Last score: 481.34      Moving average score: 531.63
+updating
+Ep 3570 Last score: 56.04       Moving average score: 521.14
+updating
+Ep 3580 Last score: 575.52      Moving average score: 517.94
+updating
+Ep 3590 Last score: 384.50      Moving average score: 511.19
+updating
+Ep 3600 Last score: 277.28      Moving average score: 514.94
+updating
+Ep 3610 Last score: 56.10       Moving average score: 523.17
+updating
+Ep 3620 Last score: 724.77      Moving average score: 544.94
+updating
+updating
+Ep 3630 Last score: 775.60      Moving average score: 557.43
+updating
+updating
+updating
+updating
+Ep 3710 Last score: 635.55      Moving average score: 589.83
+updating
+updating
+Ep 3720 Last score: 565.92      Moving average score: 589.66
+updating
+Ep 3730 Last score: 432.87      Moving average score: 594.95
+updating
+Ep 3740 Last score: 798.35      Moving average score: 595.64
+updating
+Ep 3750 Last score: 511.66      Moving average score: 604.88
+updating
+Ep 3760 Last score: 412.49      Moving average score: 602.91
+updating
+Ep 3770 Last score: 795.50      Moving average score: 609.93
+updating
+Ep 3780 Last score: 736.34      Moving average score: 617.35
+updating
+Ep 3790 Last score: 630.66      Moving average score: 615.81
+updating
+Ep 3800 Last score: 771.50      Moving average score: 616.89
+updating
+Ep 3810 Last score: 801.40      Moving average score: 599.92
+updating
+Ep 3820 Last score: 776.07      Moving average score: 602.60
+updating
+Ep 3830 Last score: 16.08       Moving average score: 595.78
+updating
+Ep 3840 Last score: 568.25      Moving average score: 588.72
+updating
+Ep 3850 Last score: 433.82      Moving average score: 596.93
+updating
+Ep 3860 Last score: 532.88      Moving average score: 601.20
+updating
+Ep 3870 Last score: 818.10      Moving average score: 600.38
+updating
+Ep 3880 Last score: 318.99      Moving average score: 598.47
+updating
+Ep 3890 Last score: 751.38      Moving average score: 597.78
+updating
+Ep 3900 Last score: 758.16      Moving average score: 598.46
+updating
+Ep 3910 Last score: 604.40      Moving average score: 605.87
+updating
+Ep 3920 Last score: 780.01      Moving average score: 603.45
+updating
+Ep 3930 Last score: 307.36      Moving average score: 603.51
+updating
+Ep 3940 Last score: 51.40       Moving average score: 603.05
+updating
+Ep 3950 Last score: 27.58       Moving average score: 562.72
+Ep 3960 Last score: 5.74        Moving average score: 509.81
+Ep 3970 Last score: -18.03      Moving average score: 462.31
+Ep 3980 Last score: 15.25       Moving average score: 418.00
+Ep 3990 Last score: -17.98      Moving average score: 378.87
+Ep 4000 Last score: 10.74       Moving average score: 344.08
+updating
+Ep 4010 Last score: -18.10      Moving average score: 314.16
+Ep 4020 Last score: 56.05       Moving average score: 287.59
+Ep 4030 Last score: 22.37       Moving average score: 263.76
+Ep 4040 Last score: 32.65       Moving average score: 243.08
+Ep 4050 Last score: 11.55       Moving average score: 222.61
+updating
+Ep 4060 Last score: 22.31       Moving average score: 203.69
+Ep 4070 Last score: 56.08       Moving average score: 189.22
+Ep 4080 Last score: 31.17       Moving average score: 175.25
+Ep 4090 Last score: 11.02       Moving average score: 161.95
+Ep 4100 Last score: 56.06       Moving average score: 150.30
+updating
+Ep 4110 Last score: 56.04       Moving average score: 140.42
+Ep 4120 Last score: 33.06       Moving average score: 131.07
+Ep 4130 Last score: 22.72       Moving average score: 122.69
+Ep 4140 Last score: 31.77       Moving average score: 113.97
+Ep 4150 Last score: 56.08       Moving average score: 106.99
+updating
+Ep 4160 Last score: 34.77       Moving average score: 101.02
+Ep 4170 Last score: -17.94      Moving average score: 95.25
+Ep 4180 Last score: 56.06       Moving average score: 90.47
+Ep 4190 Last score: 42.40       Moving average score: 86.31
+Ep 4200 Last score: 56.05       Moving average score: 81.92
+Ep 4210 Last score: 56.02       Moving average score: 78.23
+updating
+Ep 4220 Last score: 32.85       Moving average score: 74.30
+Ep 4230 Last score: 56.01       Moving average score: 70.91
+Ep 4240 Last score: 40.00       Moving average score: 68.70
+Ep 4250 Last score: 35.75       Moving average score: 66.02
+updating
+Ep 4260 Last score: 28.36       Moving average score: 64.37
+Ep 4270 Last score: 95.14       Moving average score: 64.05
+Ep 4280 Last score: 98.47       Moving average score: 63.55
+Ep 4290 Last score: 56.01       Moving average score: 62.45
+updating
+Ep 4300 Last score: 56.03       Moving average score: 60.81
+Ep 4310 Last score: 56.08       Moving average score: 60.05
+Ep 4320 Last score: 101.80      Moving average score: 66.88
+updating
+Ep 4330 Last score: 56.05       Moving average score: 68.97
+Ep 4340 Last score: 210.64      Moving average score: 74.19
+updating
+Ep 4350 Last score: 41.42       Moving average score: 74.31
+Ep 4360 Last score: 56.09       Moving average score: 75.78
+Ep 4370 Last score: 56.01       Moving average score: 81.96
+updating
+Ep 4380 Last score: 59.36       Moving average score: 84.09
+Ep 4390 Last score: 50.13       Moving average score: 85.52
+Ep 4400 Last score: 300.75      Moving average score: 86.97
+updating
+Ep 4410 Last score: 56.02       Moving average score: 89.90
+Ep 4420 Last score: 56.07       Moving average score: 95.72
+Ep 4430 Last score: 88.20       Moving average score: 96.87
+updating
+Ep 4440 Last score: 317.32      Moving average score: 97.10
+Ep 4450 Last score: -18.09      Moving average score: 96.84
+Ep 4460 Last score: 33.09       Moving average score: 95.18
+updating
+Ep 4470 Last score: 512.66      Moving average score: 112.46
+Ep 4480 Last score: 177.62      Moving average score: 116.17
+updating
+Ep 4490 Last score: 56.05       Moving average score: 136.63
+updating
+Ep 4500 Last score: 54.37       Moving average score: 146.51
+Ep 4510 Last score: 153.36      Moving average score: 164.26
+updating
+Ep 4520 Last score: 191.63      Moving average score: 176.57
+Ep 4530 Last score: 43.67       Moving average score: 190.15
+updating
+Ep 4540 Last score: 297.36      Moving average score: 203.00
+Ep 4550 Last score: 56.00       Moving average score: 213.83
+updating
+Ep 4560 Last score: 557.49      Moving average score: 233.88
+Ep 4570 Last score: 56.06       Moving average score: 234.04
+updating
+Ep 4580 Last score: 451.28      Moving average score: 243.38
+Ep 4590 Last score: 351.45      Moving average score: 261.06
+updating
+Ep 4600 Last score: 408.86      Moving average score: 267.23
+Ep 4610 Last score: 295.93      Moving average score: 262.74
+updating
+Ep 4620 Last score: 790.19      Moving average score: 271.49
+Ep 4630 Last score: 839.16      Moving average score: 295.88
+updating
+Ep 4640 Last score: 56.05       Moving average score: 301.25
+Ep 4650 Last score: 477.94      Moving average score: 305.29
+updating
+Ep 4660 Last score: 738.75      Moving average score: 316.89
+Ep 4670 Last score: 32.79       Moving average score: 316.62
+updating
+Ep 4680 Last score: 475.71      Moving average score: 339.74
+Ep 4690 Last score: 474.88      Moving average score: 355.19
+updating
+Ep 4700 Last score: 202.40      Moving average score: 365.55
+Ep 4710 Last score: 396.09      Moving average score: 373.57
+updating
+Ep 4720 Last score: 88.41       Moving average score: 377.12
+Ep 4730 Last score: 543.47      Moving average score: 387.82
+updating
+Ep 4740 Last score: 411.42      Moving average score: 390.14
+Ep 4750 Last score: 855.60      Moving average score: 397.40
+updating
+Ep 4760 Last score: 356.96      Moving average score: 388.05
+Ep 4770 Last score: 316.25      Moving average score: 373.69
+updating
+Ep 4780 Last score: 132.86      Moving average score: 352.83
+Ep 4790 Last score: 175.66      Moving average score: 341.51
+updating
+Ep 4800 Last score: 256.42      Moving average score: 328.53
+Ep 4810 Last score: 42.53       Moving average score: 317.57
+updating
+Ep 4820 Last score: 410.17      Moving average score: 314.09
+Ep 4830 Last score: 457.35      Moving average score: 316.72
+updating
+Ep 4840 Last score: 422.19      Moving average score: 319.88
+Ep 4850 Last score: 806.30      Moving average score: 320.11
+updating
+Ep 4860 Last score: 44.18       Moving average score: 327.77
+updating
+Ep 4870 Last score: 469.01      Moving average score: 312.13
+Ep 4880 Last score: 479.98      Moving average score: 309.63
+updating
+Ep 4890 Last score: 717.86      Moving average score: 308.57
+updating
+Ep 4900 Last score: 487.68      Moving average score: 322.04
+Ep 4910 Last score: 819.90      Moving average score: 327.43
+updating
+Ep 4920 Last score: 53.08       Moving average score: 333.90
+Ep 4930 Last score: 256.89      Moving average score: 322.41
+updating
+Ep 4940 Last score: 56.02       Moving average score: 317.64
+Ep 4950 Last score: 542.78      Moving average score: 323.73
+updating
+Ep 4960 Last score: 623.05      Moving average score: 342.00
+updating
+Ep 4970 Last score: 357.44      Moving average score: 356.52
+Ep 4980 Last score: 522.20      Moving average score: 351.94
+updating
+updating
+Ep 4990 Last score: 101.86      Moving average score: 371.18
+updating
+Ep 5000 Last score: 118.26      Moving average score: 381.87
+updating
+Ep 5010 Last score: 713.99      Moving average score: 402.05
+updating
+Ep 5020 Last score: 738.40      Moving average score: 423.96
+updating
+updating
+Ep 5030 Last score: 744.73      Moving average score: 439.50
+Ep 5040 Last score: 746.42      Moving average score: 455.50
+updating
+Ep 5050 Last score: 90.49       Moving average score: 461.86
+updating
+Ep 5060 Last score: 782.12      Moving average score: 472.89
+updating
+Ep 5070 Last score: 730.99      Moving average score: 498.97
+updating
+Ep 5080 Last score: 775.16      Moving average score: 517.22
+updating
+Ep 5090 Last score: 755.93      Moving average score: 541.87
+updating
+Ep 5100 Last score: 702.44      Moving average score: 551.46
+updating
+Ep 5110 Last score: 748.01      Moving average score: 570.89
+updating
+Ep 5120 Last score: 800.13      Moving average score: 581.96
+updating
+Ep 5130 Last score: 793.46      Moving average score: 591.53
+updating
+Ep 5140 Last score: 784.61      Moving average score: 603.40
+updating
+Ep 5150 Last score: 819.09      Moving average score: 614.20
+Ep 5160 Last score: 429.86      Moving average score: 616.66
+updating
+Ep 5170 Last score: 851.36      Moving average score: 627.10
+updating
+Ep 5180 Last score: 785.61      Moving average score: 641.01
+updating
+Ep 5190 Last score: 818.96      Moving average score: 640.26
+updating
+Ep 5200 Last score: 84.34       Moving average score: 644.83
+updating
+Ep 5210 Last score: 806.90      Moving average score: 656.15
+Ep 5220 Last score: 797.58      Moving average score: 653.38
+updating
+Ep 5230 Last score: 410.28      Moving average score: 648.32
+updating
+Ep 5240 Last score: 824.25      Moving average score: 653.60
+Ep 5250 Last score: 756.14      Moving average score: 667.88
+updating
+Ep 5260 Last score: 829.99      Moving average score: 671.95
+updating
+Ep 5270 Last score: 848.19      Moving average score: 683.98
+updating
+Ep 5280 Last score: 799.43      Moving average score: 689.30
+Ep 5290 Last score: 814.63      Moving average score: 692.18
+updating
+Ep 5300 Last score: 498.81      Moving average score: 696.17
+updating
+Ep 5310 Last score: 830.36      Moving average score: 705.41
+updating
+Ep 5320 Last score: 766.69      Moving average score: 709.94
+Ep 5330 Last score: 709.74      Moving average score: 721.90
+updating
+Ep 5340 Last score: 864.73      Moving average score: 731.58
+updating
+Ep 5350 Last score: 841.24      Moving average score: 737.45
+updating
+Ep 5360 Last score: 879.90      Moving average score: 745.47
+Ep 5370 Last score: 825.57      Moving average score: 752.42
+updating
+Ep 5380 Last score: 424.85      Moving average score: 757.29
+updating
+Ep 5390 Last score: 840.54      Moving average score: 759.92
+updating
+Ep 5400 Last score: 825.00      Moving average score: 763.09
+Ep 5410 Last score: 659.57      Moving average score: 763.46
+updating
+Ep 5420 Last score: 795.62      Moving average score: 767.60
+updating
+Ep 5430 Last score: 390.77      Moving average score: 769.99
+Ep 5440 Last score: 858.09      Moving average score: 775.78
+updating
+Ep 5450 Last score: 879.70      Moving average score: 783.52
+updating
+Ep 5460 Last score: 813.18      Moving average score: 790.65
+updating
+Ep 5470 Last score: 842.61      Moving average score: 798.14
+Ep 5480 Last score: 382.65      Moving average score: 792.44
+updating
+Ep 5490 Last score: 836.38      Moving average score: 797.46
+updating
+Ep 5500 Last score: 388.11      Moving average score: 796.09
+Ep 5510 Last score: 841.92      Moving average score: 799.41
+updating
+Ep 5520 Last score: 850.70      Moving average score: 805.71
+updating
+Ep 5530 Last score: 843.84      Moving average score: 806.30
+updating
+Ep 5540 Last score: 877.71      Moving average score: 811.02
+Ep 5550 Last score: 847.45      Moving average score: 812.36
+updating
+Ep 5560 Last score: 705.67      Moving average score: 808.77
+updating
+Ep 5570 Last score: 862.62      Moving average score: 812.66
+Ep 5580 Last score: 729.16      Moving average score: 812.25
+updating
+Ep 5590 Last score: 872.44      Moving average score: 816.60
+updating
+Ep 5600 Last score: 793.26      Moving average score: 818.58
+Ep 5610 Last score: 539.81      Moving average score: 807.21
+updating
+Ep 5620 Last score: 861.89      Moving average score: 810.94
+updating
+Ep 5630 Last score: 863.01      Moving average score: 809.85
+Ep 5640 Last score: 819.03      Moving average score: 809.68
+updating
+Ep 5650 Last score: 45.08       Moving average score: 763.25
+updating
+updating
+Ep 5660 Last score: 318.64      Moving average score: 722.02
+updating
+updating
+Ep 5670 Last score: 248.72      Moving average score: 688.10
+updating
+Ep 5680 Last score: 56.07       Moving average score: 655.18
+updating
+updating
+Ep 5690 Last score: 252.83      Moving average score: 626.02
+updating
+updating
+Ep 5700 Last score: 656.98      Moving average score: 614.89
+updating
+updating
+Ep 5710 Last score: 642.20      Moving average score: 599.31
+updating
+updating
+updating
+Ep 5720 Last score: 415.64      Moving average score: 592.92
+updating
+updating
+Ep 5730 Last score: 378.32      Moving average score: 573.10
+updating
+updating
+Ep 5740 Last score: 647.35      Moving average score: 565.89
+updating
+updating
+Ep 5750 Last score: 602.68      Moving average score: 563.75
+updating
+Traceback (most recent call last):
+  File "D:\gym\pytorch_car_caring-master\car\train.py", line 301, in <module>
+    state_, reward, done, die = env.step(action * np.array([2., 1., 1.]) + np.array([-1., 0., 0.]))
+  File "D:\gym\pytorch_car_caring-master\car\train.py", line 94, in step
+    img_rgb, reward, die, _, _ = self.env.step(action)
+  File "C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\gym\wrappers\time_limit.py", line 60, in step
+    self.env.step(action),
+  File "C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\gym\wrappers\order_enforcing.py", line 37, in step
+    return self.env.step(action)
+  File "C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\gym\wrappers\step_api_compatibility.py", line 52, in step
+    step_returns = self.env.step(action)
+  File "C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\gym\wrappers\env_checker.py", line 39, in step
+    return self.env.step(action)
+  File "C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\gym\envs\box2d\car_racing.py", line 548, in step
+    self.state = self._render("single_state_pixels")
+  File "C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\gym\envs\box2d\car_racing.py", line 605, in _render
+    self._render_road(zoom, trans, angle)
+  File "C:\ProgramData\Anaconda3\envs\p39pttf\lib\site-packages\gym\envs\box2d\car_racing.py", line 663, in _render_road
+    (GRASS_DIM * x + GRASS_DIM, GRASS_DIM * y + GRASS_DIM),
+KeyboardInterrupt
